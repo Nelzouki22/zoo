@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "zoo", "zoo\zoo.pyproj", "{417809AE-C31B-4051-B9D8-9F4E9BA11E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417809AE-C31B-4051-B9D8-9F4E9BA11E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417809AE-C31B-4051-B9D8-9F4E9BA11E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A697C246-AB01-4DB5-B7FF-F5B85459DA59}
+	EndGlobalSection
+EndGlobal
